@@ -1,0 +1,1 @@
+xtensa-lx106-elf-gcc -I$/home/bclouser/workspace/embedded/esp-open-sdk/sdk/include -L$/home/bclouser/workspace/embedded/esp-open-sdk/sdk/lib
